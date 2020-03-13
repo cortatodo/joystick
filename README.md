@@ -24,6 +24,6 @@ La configuracion es la misma de las figuras que estan en <a href=https://orionro
 
 <h1>Diagrama electronico</h1>
 <img src='/circuit-diagram-fritzing.png/' style='width:20px;height:20px;'/>
-Diagrama bread board
+<h1>Diagrama bread board</h1>
 <img src='/circuit-breadboard-fritzing.png/' style='width:20px;height:20px;'/>
 
