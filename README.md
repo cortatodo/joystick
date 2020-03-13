@@ -22,5 +22,8 @@ Pero si el microcontrolador que tenemos es esp-8266 pues no tenemos otra opcion 
 Una brillante solucion fue la que encontre en <a href=https://orionrobots.co.uk/2017/05/28/joystick-attached-to-esp8266.html> Orion Robots</a> y funciono a la perfeccion, como mi idioma de programacion favorito es Python, y Micropython decidi hacerlo y subirlo para ustedes.
 La configuracion es la misma de las figuras que estan en <a href=https://orionrobots.co.uk/2017/05/28/joystick-attached-to-esp8266.html> Orion Robots</a>.
 
-<img src='/circuit-breadboard-fritzing.png/' style='width:20px;height:20px;'/>
+<h1>Diagrama electronico</h1>
 <img src='/circuit-diagram-fritzing.png/' style='width:20px;height:20px;'/>
+Diagrama bread board
+<img src='/circuit-breadboard-fritzing.png/' style='width:20px;height:20px;'/>
+
