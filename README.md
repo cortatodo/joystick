@@ -1,11 +1,11 @@
 # Joystick ESP8266 y Micropython 
 Vamos a programar un Joystick Elegoo con Micropython.
 
-
 <img src='/Elegoo-joystick.jpg/' width=200 height=200 />
-<img src='/NodeMCU-Microncontroller.ppm/' width=300 height=200 />
 
-usando el rete-conocido microcontrolador Nodemcu esp-8266 de Expressiff
+Usando el rete-conocido microcontrolador Nodemcu esp-8266 de Expressiff
+
+<img src='/NodeMCU-Microncontroller.ppm/' width=300 height=200 />
 
 <a href=https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/>Fotos y pinouts diferentes modelos esp8266 </a> para referencia
 
