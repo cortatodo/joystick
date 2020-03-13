@@ -5,4 +5,6 @@ Vamos a programar un Joystick Elegoo con Micropython.
 
 usando el rete-conocido microcontrolador Nodemcu esp-8266 de Expressiff
 
-Ver fotos y pinouts para referencia https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
+Ver fotos y pinouts para referencia <a href=https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/>dgdfgdf</a>
+
+<a href="{% url 'admin:index' %}">Cortatodo</a></h1>
