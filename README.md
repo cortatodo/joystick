@@ -29,11 +29,11 @@ La configuracion es la misma de las figuras que estan en <a href=https://orionro
 
 Elementos usados:
 
-1-Board Nodemcu esp-8266
-2-Joystick Elegoo
-3-(2) transistores pnp 2n2222
-4-(2) resistencias de 2k
-5-Bread board
-6-Jumpers varios
+1-Board Nodemcu esp-8266</br>
+2-Joystick Elegoo</br>
+3-(2) transistores pnp 2n2222</br>
+4-(2) resistencias de 2k</br>
+5-Bread board</br>
+6-Jumpers varios</br>
 
 En mi caso la prueba se hizo con el voltaje suministrado por el USB y solo se uso 3.3v.
