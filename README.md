@@ -5,7 +5,7 @@ Vamos a programar un Joystick Elegoo con Micropython.
 
 Usando el rete-conocido microcontrolador Nodemcu esp-8266 de Expressiff
 
-<img src='/NodeMCU-Microncontroller.ppm/' width=300 height=200 />
+<img src='media/NodeMCU-Microncontroller.ppm/' width=300 height=200 />
 
 <a href=https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/>Fotos y pinouts diferentes modelos esp8266 </a> para referencia
 
@@ -13,7 +13,7 @@ Tomado de este excelente blog <a href=https://orionrobots.co.uk/2017/05/28/joyst
 
 EL diagrama basico del joystick es el siguiente.
 
-<img src='/joystick-innards.png/' style='width:20px;height:20px;'/>
+<img src='media/joystick-innards.png/' style='width:20px;height:20px;'/>
 
 Joystick X y Joystick Y Son dos potenciometros que envian datos analogos al mismo tiempo.
 Pero el esp-8266 tiene la limitacion de que solo tiene una entrada analoga (ADC(0))
@@ -24,9 +24,9 @@ Una brillante solucion fue la que encontre en <a href=https://orionrobots.co.uk/
 La configuracion es la misma de las figuras que estan en <a href=https://orionrobots.co.uk/2017/05/28/joystick-attached-to-esp8266.html> Orion Robots</a>.
 
 <h1>Diagrama electronico</h1>
-<img src='/circuit-diagram-fritzing.png/' style='width:20px;height:20px;'/>
+<img src='media/circuit-diagram-fritzing.png/' style='width:20px;height:20px;'/>
 <h1>Diagrama bread board</h1>
-<img src='/circuit-breadboard-fritzing.png/' style='width:20px;height:20px;'/>
+<img src='media/circuit-breadboard-fritzing.png/' style='width:20px;height:20px;'/>
 
 Elementos usados:
 
