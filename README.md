@@ -1,7 +1,7 @@
 # Joystick ESP8266 y Micropython 
 Vamos a programar un Joystick Elegoo con Micropython.
 
-![](Elegoo-joystick.jpg)
+![](Elegoo-joystick.jpg = 100x20)
 
 
 <img src='/NodeMCU-Microncontroller.ppm/' width=200 height=200 />
