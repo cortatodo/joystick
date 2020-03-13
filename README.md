@@ -2,7 +2,7 @@
 Vamos a programar un Joystick Elegoo con Micropython.
 
 ![](Elegoo-joystick.jpg)
-<img src=/Elegoo-joystick.jpg/ style=width:200px;height:200px>
+<img src=/Elegoo-joystick.jpg/ style=width:20px;height:20px>
 
 usando el rete-conocido microcontrolador Nodemcu esp-8266 de Expressiff
 
