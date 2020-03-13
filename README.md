@@ -27,3 +27,13 @@ La configuracion es la misma de las figuras que estan en <a href=https://orionro
 <h1>Diagrama bread board</h1>
 <img src='/circuit-breadboard-fritzing.png/' style='width:20px;height:20px;'/>
 
+Elementos usados:
+
+1-Board Nodemcu esp-8266
+2-Joystick Elegoo
+3-(2) transistores pnp 2n2222
+4-(2) resistencias de 2k
+5-Bread board
+6-Jumpers varios
+
+En mi caso la prueba se hizo con el voltaje suministrado por el USB y solo se uso 3.3v.
